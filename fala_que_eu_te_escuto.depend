@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538287615 source:c:\users\juanl\documents\dev\parsertohex\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<String.h>
+
